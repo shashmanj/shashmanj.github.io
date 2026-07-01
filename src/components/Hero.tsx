@@ -52,8 +52,9 @@ export function Hero() {
         </h1>
 
         <p className="animate-fade-rise-delay mx-auto mt-8 max-w-2xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-          I'm Shashi — I built and shipped BodySense AI on my own: the first UK app combining
-          NICE-grounded AI, cultural &amp; religious diet adaptation, and multi-condition care.
+          I'm Shashi — I build and ship real products with Claude. BodySense AI is the first UK app
+          combining NICE-grounded AI, cultural &amp; religious diet adaptation, and multi-condition
+          care — built and shipped solo.
         </p>
 
         <div className="animate-fade-rise-delay-2 mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
