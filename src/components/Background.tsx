@@ -6,12 +6,12 @@ const AREAS = [
     body: 'Venture creation, financial modelling, customer development, IP & go-to-market.',
   },
   {
-    title: 'Engineering',
-    body: 'iOS / Swift (SwiftUI, Xcode), AI integration & agentic tools, cloud backend on Railway.',
+    title: 'Engineering, with Claude',
+    body: 'iOS / Swift (SwiftUI, Xcode), Claude Code & agentic workflows, cloud backend on Railway.',
   },
   {
-    title: 'Health & people',
-    body: 'Nutrition & food systems (BSc), NICE / BNF grounding, two years of customer research.',
+    title: 'Commercial execution',
+    body: 'Multi-vertical builds — health-tech and hospitality — live, earning, and grounded in real customer research.',
   },
 ]
 
@@ -38,8 +38,7 @@ export function Background() {
 
       <Reveal className="mt-8">
         <p className="text-sm text-muted-foreground">
-          MSc Entrepreneurship, Manchester Metropolitan University · BSc Agricultural Science · Apple
-          Developer Program member
+          MSc Entrepreneurship, Manchester Metropolitan University · Apple Developer Program member
         </p>
       </Reveal>
     </section>
