@@ -4,8 +4,11 @@ import { buttonVariants } from '@/components/ui/button'
 
 const NAV_LINKS = [
   { label: 'Story', href: '#story' },
-  { label: 'BodySense AI', href: '#product' },
+  { label: 'Work', href: '#work' },
   { label: 'Proof', href: '#proof' },
+  { label: 'Hire Me', href: '#hire' },
+  { label: 'AI Packs', href: '#packs' },
+  { label: 'Web Design', href: '#web-design' },
   { label: 'Contact', href: '#contact' },
 ]
 
