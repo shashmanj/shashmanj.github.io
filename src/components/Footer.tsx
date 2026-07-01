@@ -11,8 +11,8 @@ export function Footer() {
           Let&apos;s build something that matters.
         </h2>
         <p className="mx-auto mt-6 max-w-xl text-lg text-muted-foreground">
-          Founder of BodySense AI, based in Manchester — open to conversations about
-          clinically-grounded, culturally-aware health AI.
+          I build and ship real products with Claude — across health-tech and beyond. Based in
+          Manchester, open to conversations about what's next.
         </p>
 
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
